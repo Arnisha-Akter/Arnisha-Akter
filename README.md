@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Arnisha-Akter
+- 👀 I'm a backend engineer
 - 👀 I’m interested in Machine learning and AI
-- 🌱 I’m an undergraduate student of CSE
-- 💞️ I’m looking to collaborate with expertises on ML and AI
-- 📫 Connect with me in my linked in-https://www.linkedin.com/in/arnisha-akter-974a981b8/
+- 🌱 I’m a graduate student from CSE
+- 💞️ I’m looking to collaborate with expertise on ML and AI
+- 📫 Connect with me on my LinkedIn at https://www.linkedin.com/in/arnisha-akter-974a981b8/
 
 <!---
 Arnisha-Akter/Arnisha-Akter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
